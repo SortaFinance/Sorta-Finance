@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "token-lending/program",
+  "token-lending/sdk",
+]
+
+resolver = "2"
